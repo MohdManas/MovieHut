@@ -25,7 +25,7 @@ export const Home = ({navigation}) => {
         </View>
         <View style={styles.buttonView}>
           <Button name="Register" icon="account-lock-open-outline" onPress={()=>navigation.navigate("Register")}>
-            Register
+            Registers
           </Button>
         </View>
       </View>
