@@ -24,16 +24,8 @@ export const Legal = () => {
       id: "corporate",
       title: "Corporate & Commercial Advisory",
       icon: "briefcase",
-      content: `Our firm offers sophisticated legal advisory services across the spectrum of Corporate and Commercial Law within the United Arab Emirates. We provide strategic guidance to a diverse clientele, ranging from emerging enterprises to established multinational corporations, enabling them to adeptly navigate the intricate regulatory landscape of the UAE.
-
-Our core competencies include:
-• Company formation and structuring
-• Drafting and review of complex commercial contracts
-• Joint Ventures (JVs) and Mergers & Acquisitions (M&A)
-• Shareholder agreements and corporate governance
-• Compliance with UAE Commercial Companies Law (Federal Decree-Law No. 32 of 2021)
-
-Our objective is to empower businesses to flourish within the highly competitive UAE market through astute legal strategies and meticulous documentation.`,
+      whatWeDo: `Our firm offers sophisticated legal advisory services across the spectrum of Corporate and Commercial Law within the United Arab Emirates. We provide strategic guidance to a diverse clientele, ranging from emerging enterprises to established multinational corporations, enabling them to adeptly navigate the intricate regulatory landscape of the UAE. Our core competencies include comprehensive support for company formation, ensuring meticulous adherence to local statutes and the distinct regulations governing various free zones across the Emirates. We excel in the drafting, negotiation, and review of complex commercial contracts, encompassing distribution agreements, agency arrangements, franchise and licensing accords. These instruments are meticulously crafted to safeguard our clients' commercial interests and foster seamless operational execution. Furthermore, we provide expert counsel on Joint Ventures (JVs), Mergers & Acquisitions (M&A), and the formulation of robust shareholder agreements, thereby establishing resilient legal frameworks for strategic alliances and significant corporate transactions. Our overarching objective is to empower businesses to flourish within the highly competitive UAE market through the application of astute legal strategies and rigorous documentation, aligning with the provisions of the UAE Commercial Companies Law (Federal Decree-Law No. 32 of 2021).`,
+      whyChooseUs: `We combine practical commercial insight with deep UAE legal experience to deliver solutions that protect your business and accelerate growth. Our team offers responsive transaction support, commercially focused legal strategy, experienced cross-border advice, and acts as a trusted long-term advisory partner.`,
       highlights: [
         "Joint venture and shareholder agreement drafting",
         "Mergers & acquisitions advisory and due diligence",
@@ -45,17 +37,8 @@ Our objective is to empower businesses to flourish within the highly competitive
       id: "dispute",
       title: "Dispute Resolution & Arbitration",
       icon: "gavel",
-      content: `In the dynamic commercial environment of the UAE, disputes may arise. Our specialized Dispute Resolution team provides assertive and strategic representation in both UAE Federal and Local Courts and prominent arbitration forums.
-
-Our expertise covers:
-• Dubai International Arbitration Centre (DIAC)
-• Abu Dhabi Global Market (ADGM) Arbitration Centre
-• DIFC-LCIA Arbitration Centre
-• Complex, high-value, multi-jurisdictional disputes
-• Litigation, mediation, and international arbitration
-• UAE Federal Law No. 6 of 2018 on Arbitration
-
-We focus on understanding our clients' commercial objectives to achieve optimal outcomes with precision and efficacy.`,
+      whatWeDo: `In the dynamic and often challenging commercial environment of the UAE, the emergence of disputes is an inherent risk. Our specialized Dispute Resolution team provides assertive and strategic representation in both the UAE Federal and Local Courts and prominent arbitration forums, including the Dubai International Arbitration Centre (DIAC), Abu Dhabi Global Market (ADGM) Arbitration Centre, and the DIFC-LCIA Arbitration Centre. We possess extensive experience in managing complex, high-value, and multi-jurisdictional disputes across a broad array of contentious matters. Our methodology is rooted in a profound understanding of our clients' commercial objectives, aiming to secure optimal outcomes through litigation, mediation, or international arbitration. We offer incisive advice on the procedural and substantive legal considerations pertinent to dispute resolution, including the application of governing laws as determined by tribunals and courts, such as the DIFC Courts. Our profound expertise in international arbitration is underpinned by a thorough command of the UAE Federal Law No. 6 of 2018 on Arbitration, ensuring comprehensive and effective advocacy for our clients in resolving their commercial conflicts with precision and efficacy.`,
+      whyChooseUs: `Our dispute resolution team is renowned for its strategic approach and deep understanding of UAE and international dispute mechanisms. We provide robust advocacy, tailored strategies, and a commitment to achieving the most favorable outcomes for our clients, minimizing disruption to their business operations.`,
       highlights: [
         "Strategic representation in UAE courts",
         "International arbitration expertise",
@@ -67,17 +50,8 @@ We focus on understanding our clients' commercial objectives to achieve optimal 
       id: "finance",
       title: "Finance & Banking Regulatory Compliance",
       icon: "bank",
-      content: `Our Finance & Banking practice delivers highly specialized legal services to financial institutions, corporate entities, and private clients operating within the sophisticated financial ecosystem of the UAE.
-
-We provide expert guidance on:
-• Corporate finance and project finance
-• Asset-backed lending and syndicated credit facilities
-• Regulatory compliance with Central Bank of the UAE
-• Dubai Financial Services Authority (DFSA) regulations
-• Banking disputes and financial disagreements
-• DIFC financial regulations and compliance
-
-Our commitment is to ensure that clients' financial operations are conducted in strict adherence to UAE financial legislation, thereby mitigating regulatory risks and fostering sustainable growth.`,
+      whatWeDo: `Our Finance & Banking practice delivers highly specialized legal services to financial institutions, corporate entities, and private clients operating within the sophisticated financial ecosystem of the UAE. We offer expert guidance on an extensive range of financial transactions, including but not limited to corporate finance, project finance, asset-backed lending, and syndicated credit facilities. A cornerstone of our service offering is comprehensive advice on regulatory compliance, assisting clients in navigating the intricate framework of financial laws and regulations promulgated by key authorities such as the Central Bank of the UAE and the Dubai Financial Services Authority (DFSA) within the Dubai International Financial Centre (DIFC). We also provide robust representation in banking disputes, offering strategic counsel and vigorous advocacy to resolve complex financial disagreements. Our commitment is to ensure that our clients' financial operations are conducted in strict adherence to UAE financial legislation, thereby mitigating regulatory risks and fostering sustainable economic growth.`,
+      whyChooseUs: `We offer unparalleled expertise in UAE financial regulations, providing proactive compliance solutions and strategic advice on complex financial transactions. Our team ensures that your financial endeavors are legally sound, secure, and aligned with the highest standards of governance.`,
       highlights: [
         "Financial transaction advisory",
         "Regulatory compliance support",
@@ -89,17 +63,8 @@ Our commitment is to ensure that clients' financial operations are conducted in 
       id: "retainer",
       title: "Retainer Legal Services",
       icon: "shield-check",
-      content: `Recognizing the imperative for continuous and proactive legal support in today's rapidly evolving business landscape, we offer bespoke Retainer Legal Services designed to provide ongoing legal assistance for daily operational requirements and strategic risk mitigation.
-
-Our retainer services include:
-• Immediate and accessible legal advice
-• Operational compliance support
-• Contractual obligation management
-• Timely counsel on critical operational matters
-• Customized packages aligned with unique requirements
-• Cost-effective solution for consistent legal support
-
-By seamlessly integrating our specialized legal expertise into your routine workflow, clients can significantly minimize potential legal exposures and ensure unwavering adherence to regulatory mandates.`,
+      whatWeDo: `Recognizing the imperative for continuous and proactive legal support in today's rapidly evolving business landscape, we offer bespoke Retainer Legal Services. These services are meticulously designed to provide ongoing legal assistance for daily operational requirements and strategic risk mitigation. Our retainer clients benefit from immediate and accessible legal advice, enabling them to address emergent legal queries and challenges without the necessity of initiating separate engagements. This service model is ideally suited for businesses committed to maintaining stringent legal compliance, effectively managing their diverse contractual obligations, and receiving timely, expert counsel on critical operational matters. By seamlessly integrating our specialized legal expertise into their routine workflow, clients can significantly minimize potential legal exposures, ensure unwavering adherence to regulatory mandates, and concentrate on their core business objectives with enhanced confidence and security. Our retainer packages are meticulously customized to align with the unique requirements and budgetary considerations of each client, offering a highly cost-effective solution for consistent and premium legal support.`,
+      whyChooseUs: `Our retainer services provide a cost-effective and efficient way to access ongoing legal support. We act as an extension of your team, offering proactive advice, mitigating risks, and ensuring continuous compliance, allowing you to focus on your core business with peace of mind.`,
       highlights: [
         "Responsive transaction support",
         "Commercially focused legal strategy",
@@ -163,7 +128,13 @@ By seamlessly integrating our specialized legal expertise into your routine work
 
             {expandedSection === section.id && (
               <View style={styles.sectionContent}>
-                <Text style={styles.contentText}>{section.content}</Text>
+                <Text style={styles.subHeading}>What We Do</Text>
+                <Text style={styles.contentText}>{section.whatWeDo}</Text>
+
+                <Divider style={styles.divider} />
+
+                <Text style={styles.subHeading}>Why Choose Us</Text>
+                <Text style={styles.contentText}>{section.whyChooseUs}</Text>
 
                 <Divider style={styles.divider} />
 
@@ -298,6 +269,13 @@ const styles = StyleSheet.create({
     backgroundColor: "#0A0E27",
     borderTopWidth: 1,
     borderTopColor: "#2A3354",
+  },
+  subHeading: {
+    fontSize: 16,
+    fontWeight: "700",
+    color: "#D4AF37",
+    marginBottom: 8,
+    fontFamily: "Oswald_400Regular",
   },
   contentText: {
     fontSize: 13,
